@@ -28,7 +28,7 @@ const projects = [
     ],
     image: "/S3.png", // Provide a default image
     live: "https://example.com", // Empty if no live URL
-    github: "https://github.com/example/repo", // Example GitHub URL
+    github: "https://github.com/MeInBytes", // Example GitHub URL
   },
   {
     num: "02",
