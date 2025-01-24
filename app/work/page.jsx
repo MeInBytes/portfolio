@@ -43,7 +43,7 @@ const projects = [
     ],
     image: "/S1.png", // Provide a default image
     live: "https://example.com", // Example live URL
-    github: "https://github.com/example/repo", // Example GitHub URL
+    github: "https://github.com/MeInBytes", // Example GitHub URL
   },
 ];
 
